@@ -16,6 +16,7 @@ https://postmaster.google.com/
 
 ## Microsoft
 https://sendersupport.olc.protection.outlook.com/pm/postmaster.aspx
+https://postmaster.live.com/snds/JMRP.aspx
 
 # Delisting
 
